@@ -1,0 +1,8 @@
+---
+- name: Pull docker image of SPECalculator
+  hosts: all
+  tasks:
+    - name: Pull junit devops image
+      docker_image:
+        name: raman0007/calculator
+        source: pull
