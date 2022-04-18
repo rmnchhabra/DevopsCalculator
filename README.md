@@ -1,2 +1,2 @@
 # DevopsCalculator
-made by raman chhabra
+made by raman
